@@ -11,7 +11,7 @@ Expected saving: 2.08% (1056.422Mb)
 
 ## Usage
 
-First, open CONTROL_ULTIMATE_EDITION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open CONTROL_ULTIMATE_EDITION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Control Ultimate Edition).
 
 For both commandline and batch methods, use the following syntax:
 

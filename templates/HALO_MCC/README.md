@@ -1,6 +1,6 @@
-# Install Debloater for Halo MCC
+# Install Debloater for Halo: The Master Chief Collection
 
-This template is designed to work with Halo MCC. Tested on the Steam version. 
+This template is designed to work with Halo: The Master Chief Collection. Tested on the Steam version. 
 - Removes all languages except English
 - Deletes startup movies that play before reaching the main menu (Publisher logos etc)
 - Deletes the localized intro movies for Halo 3: ODST.

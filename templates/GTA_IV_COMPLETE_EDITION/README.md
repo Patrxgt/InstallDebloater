@@ -14,7 +14,7 @@ NOTE: Since the Rockstar Game Launcher gets updated frequently, it will be re-do
 
 ## Usage
 
-First, open GTA_IV_COMPLETE_EDITION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open GTA_IV_COMPLETE_EDITION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Grand Theft Auto IV).
 
 For both commandline and batch methods, use the following syntax:
 

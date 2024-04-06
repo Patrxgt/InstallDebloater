@@ -1,6 +1,6 @@
-# Install Debloater for DOOM 2016
+# Install Debloater for DOOM (2016)
 
-This template is designed to work with DOOM 2016. Should work with all versions of the game and was tested on the Steam version. 
+This template is designed to work with DOOM (2016). Should work with all versions of the game and was tested on the Steam version. 
 - Removes all languages except English
 - Deletes the multiplayer and Snapmap modes.
 
@@ -10,7 +10,7 @@ This template is designed to work with DOOM 2016. Should work with all versions 
 
 ## Usage
 
-First, open DOOM_2016.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open DOOM_2016.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\DOOM).
 
 For both commandline and batch methods, use the following syntax:
 

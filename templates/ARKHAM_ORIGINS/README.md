@@ -10,7 +10,7 @@ This template is designed to work with Arkham Origins. Should work with all vers
 
 ## Usage
 
-First, open ARKHAM_ORIGINS.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open ARKHAM_ORIGINS.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Origins).
 
 For both commandline and batch methods, use the following syntax:
 

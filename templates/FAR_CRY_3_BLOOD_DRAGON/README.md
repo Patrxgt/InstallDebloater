@@ -12,7 +12,7 @@ Expected saving: 23.39% (803Mb).
 
 ## Usage
 
-First, open FAR_CRY_3_BLOOD_DRAGON.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open FAR_CRY_3_BLOOD_DRAGON.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Far Cry 3 Blood Dragon).
 
 For both commandline and batch methods, use the following syntax:
 

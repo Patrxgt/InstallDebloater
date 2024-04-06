@@ -12,7 +12,7 @@ Expected saving: 33,21% (~16Gb).
 
 ## Usage
 
-First, open WATCH_DOGS_2.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open WATCH_DOGS_2.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Watch Dogs 2).
 
 For both commandline and batch methods, use the following syntax:
 

@@ -13,7 +13,7 @@ Expected saving: 19.76% (~5.3Gb)
 
 ## Usage
 
-First, open LOST_PLANET_3.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open LOST_PLANET_3.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Lost Planet 3).
 
 For both commandline and batch methods, use the following syntax:
 

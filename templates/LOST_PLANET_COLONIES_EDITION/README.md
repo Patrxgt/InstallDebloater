@@ -9,7 +9,7 @@
 
 ## Usage
 
-First, open LOST_PLANET_COLONIES_EDITION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open LOST_PLANET_COLONIES_EDITION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Lost Planet Colonies Edition).
 
 For both commandline and batch methods, use the following syntax:
 

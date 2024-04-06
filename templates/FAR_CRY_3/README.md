@@ -13,7 +13,7 @@ Expected saving: 30.14% (3.6Gb).
 
 ## Usage
 
-First, open FAR_CRY_3.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open FAR_CRY_3.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Far Cry 3).
 
 For both commandline and batch methods, use the following syntax:
 

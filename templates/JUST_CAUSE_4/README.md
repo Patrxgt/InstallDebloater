@@ -11,7 +11,7 @@ Expected saving: 10.53% (~7.5Gb)
 
 ## Usage
 
-First, open JUST_CAUSE_4.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open JUST_CAUSE_4.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Just Cause 4).
 
 For both commandline and batch methods, use the following syntax:
 

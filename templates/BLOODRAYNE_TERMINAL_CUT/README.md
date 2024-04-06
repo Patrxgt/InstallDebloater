@@ -9,7 +9,7 @@ Removes all languages except English and deletes the localized FMVs for BloodRay
 
 ## Usage
 
-First, open BLOODRAYNE_TERMINAL_CUT.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open BLOODRAYNE_TERMINAL_CUT.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\BloodRayne Terminal Cut).
 
 For both commandline and batch methods, use the following syntax:
 

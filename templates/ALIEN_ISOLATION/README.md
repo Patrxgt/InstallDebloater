@@ -13,7 +13,7 @@ Estimated savings: 6.88% (2.1Gb)
 
 ## Usage
 
-First, open ALIEN_ISOLATION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open ALIEN_ISOLATION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Alien Isolation).
 
 For both commandline and batch methods, use the following syntax:
 

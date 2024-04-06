@@ -11,7 +11,7 @@ This template is designed to work with Arkham City GOTY. Should work with all ve
 
 ## Usage
 
-First, open ARKHAM_CITY.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open ARKHAM_CITY.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham City).
 
 For both commandline and batch methods, use the following syntax:
 

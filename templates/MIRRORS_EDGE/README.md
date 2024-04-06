@@ -13,7 +13,7 @@ Expected saving: 5.9% (435Mb).
 
 ## Usage
 
-First, open MIRRORS_EDGE.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open MIRRORS_EDGE.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Mirror's Edge).
 
 For both commandline and batch methods, use the following syntax:
 

@@ -11,7 +11,7 @@ This template is designed to work with STAR WARS: The Force Unleashed Ultimate S
 
 ## Usage
 
-First, open STAR_WARS_THE_FORCE_UNLEASHED.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open STAR_WARS_THE_FORCE_UNLEASHED.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Star Wars The Force Unleashed).
 
 For both commandline and batch methods, use the following syntax:
 

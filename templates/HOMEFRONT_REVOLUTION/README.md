@@ -9,7 +9,7 @@ This template is designed to work with Homefront: The Revolution.
 
 ## Usage
 
-First, open HOMEFRONT_REVOLUTION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open HOMEFRONT_REVOLUTION.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Homefront The Revolution).
 
 For both commandline and batch methods, use the following syntax:
 

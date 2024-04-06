@@ -11,7 +11,7 @@ Expected saving: 34.52% (20.3Gb).
 
 ## Usage
 
-First, open FINAL_FANTASY_XIII.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open FINAL_FANTASY_XIII.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\FINAL FANTASY XIII).
 
 For both commandline and batch methods, use the following syntax:
 

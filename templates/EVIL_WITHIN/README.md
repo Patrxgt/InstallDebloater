@@ -9,7 +9,7 @@ This template is designed to work with The Evil Within. Should work with all ver
 
 ## Usage
 
-First, open EVIL_WITHIN.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open EVIL_WITHIN.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\The Evil Within).
 
 For both commandline and batch methods, use the following syntax:
 

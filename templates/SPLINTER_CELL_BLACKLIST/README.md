@@ -1,6 +1,6 @@
-# Install Debloater for Splinter Cell Blacklist
+# Install Debloater for Splinter Cell: Blacklist
 
-This template is designed to work with Splinter Cell Blacklist. Tested on the Steam version. 
+This template is designed to work with Splinter Cell: Blacklist. Tested on the Steam version. 
 - Removes all languages except English
 
 ## Installation

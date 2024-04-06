@@ -10,7 +10,7 @@ This template is designed to work with Arkham Knight. Should work with all versi
 
 ## Usage
 
-First, open ARKHAM_KNIGHT.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open ARKHAM_KNIGHT.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Knight).
 
 For both commandline and batch methods, use the following syntax:
 

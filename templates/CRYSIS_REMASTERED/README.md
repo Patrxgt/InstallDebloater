@@ -11,7 +11,7 @@ Expected saving: 8.93% (1.8Gb)
 
 ## Usage
 
-First, open CRYSIS_REMASTERED.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open CRYSIS_REMASTERED.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Crysis Remastered).
 
 For both commandline and batch methods, use the following syntax:
 

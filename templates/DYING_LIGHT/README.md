@@ -14,7 +14,7 @@ Expected savings: 19.39% (7.4Gb).
 
 ## Usage
 
-First, open DYING_LIGHT.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open DYING_LIGHT.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Dying Light).
 
 For both commandline and batch methods, use the following syntax:
 

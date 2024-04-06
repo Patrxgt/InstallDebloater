@@ -11,7 +11,7 @@ Expected savings: 7.63% (674.886Mb)
 
 ## Usage
 
-First, open SONIC_GENERATIONS.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open SONIC_GENERATIONS.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Sonic Generations).
 
 For both commandline and batch methods, use the following syntax:
 

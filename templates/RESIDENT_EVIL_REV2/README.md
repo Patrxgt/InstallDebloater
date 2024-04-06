@@ -9,7 +9,7 @@ This template is designed to work with RE: Revelations 2.
 
 ## Usage
 
-First, open RESIDENT_EVIL_REV2.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open RESIDENT_EVIL_REV2.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Resident Evil Revelations 2).
 
 For both commandline and batch methods, use the following syntax:
 

@@ -12,7 +12,7 @@ Expected savings: 15.43% (3.2Gb)
 
 ## Usage
 
-First, open BIOSHOCK_REMASTERED.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\Batman Arkham Asylum GOTY).
+First, open BIOSHOCK_REMASTERED.ini with a text editor and add the complete filepath to your game root folder (example: C:\Steam\steamapps\common\BioShock Remastered).
 
 For both commandline and batch methods, use the following syntax:
 
